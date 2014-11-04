@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qwertyplus-android-parent.iml" filepath="$PROJECT_DIR$/qwertyplus-android-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/qwertyplus-dog.iml" filepath="$PROJECT_DIR$/app/qwertyplus-dog.iml" />
+    </modules>
+  </component>
+</project>
+
